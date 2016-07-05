@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Implementation-Title: Cassandra Logger
+Implementation-Version: 0.2
+Built-By: Felipe Dornelas
+

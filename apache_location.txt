@@ -1,0 +1,11 @@
+
+APACHE_LOCATIONS=$(head -n 2 apache_location.txt)
+
+
+APACHE_LOCATIONS=$(head -n 2 apache_location.txt)
+
+/var/lib/mesos/slave/slaves/9f592ba3-6438-4661-af6a-33711be3c807-S4/frameworks/9f592ba3-6438-4661-af6a-33711be3c807-0003/executors/node-0_a830a4be-7e4a-41bf-adb5-c5644361efa9_executor/runs/cd5c0e11-d4c7-421f-b9a7-dd5812b05f9a/apache-cassandra-2.2.5
+/var/lib/mesos/slave/slaves/9f592ba3-6438-4661-af6a-33711be3c807-S4/frameworks/9f592ba3-6438-4661-af6a-33711be3c807-0003/executors/node-0_a830a4be-7e4a-41bf-adb5-c5644361efa9_executor/runs/741e9f95-50b9-4593-a444-dde5e2391798/apache-cassandra-2.2.5
+/var/lib/mesos/slave/slaves/9f592ba3-6438-4661-af6a-33711be3c807-S4/frameworks/9f592ba3-6438-4661-af6a-33711be3c807-0003/executors/node-0_a830a4be-7e4a-41bf-adb5-c5644361efa9_executor/runs/3d30974d-36d8-4d79-a6ea-c01da4462a10/apache-cassandra-2.2.5
+/var/lib/mesos/slave/slaves/9f592ba3-6438-4661-af6a-33711be3c807-S4/frameworks/9f592ba3-6438-4661-af6a-33711be3c807-0003/executors/node-0_a830a4be-7e4a-41bf-adb5-c5644361efa9_executor/runs/9b66022a-b419-40c8-bb91-1986c0a0ab52/apache-cassandra-2.2.5
+Connection to 10.0.2.197 closed.
